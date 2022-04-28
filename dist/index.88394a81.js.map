@@ -1,0 +1,1 @@
+{"mappings":"AAAAA,OAAOC,EAAID,OAAOE,OAElBD,EAAE,SAASE,KAAK,UAAUC,SAAS","sources":["src/main.js"],"sourcesContent":["window.$ = window.jQuery\n\n$('#test').find('.child').addClass('red')"],"names":["window","$","jQuery","find","addClass"],"version":3,"file":"index.88394a81.js.map"}
